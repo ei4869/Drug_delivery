@@ -1,0 +1,26 @@
+<annotation>
+	<folder>num3_train</folder>
+	<filename>num3_95.jpg</filename>
+	<path>D:\Data\opencv_project\Train_database\delivery4\useddata\num3_train\num3_95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>110</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>17</ymin>
+			<xmax>230</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

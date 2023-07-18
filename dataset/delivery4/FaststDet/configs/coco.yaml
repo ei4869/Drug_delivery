@@ -1,0 +1,18 @@
+DATASET:
+  TRAIN: "D:/Data/opencv_project/Train_database/delivery4/data/train.txt"
+  VAL: "D:/Data/opencv_project/Train_database/delivery4/data/val.txt"
+  NAMES: "D:/Data/opencv_project/Train_database/delivery4/data/category.names"
+MODEL:
+  NC: 8
+  INPUT_WIDTH: 220
+  INPUT_HEIGHT: 220
+TRAIN:
+  LR: 0.001
+  THRESH: 0.25
+  WARMUP: true
+  BATCH_SIZE: 25
+  END_EPOCH: 200
+  MILESTIONES:
+    - 100
+    - 200
+    - 250

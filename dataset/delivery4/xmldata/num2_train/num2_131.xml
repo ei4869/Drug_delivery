@@ -1,0 +1,26 @@
+<annotation>
+	<folder>num2_train</folder>
+	<filename>num2_131.jpg</filename>
+	<path>D:\Data\opencv_project\Train_database\delivery4\useddata\num2_train\num2_131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>110</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>24</ymin>
+			<xmax>291</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>
